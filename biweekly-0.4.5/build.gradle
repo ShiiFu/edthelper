@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('biweekly-0.4.5.jar'))
